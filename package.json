@@ -1,0 +1,16 @@
+{
+  "name": "lab10",
+  "version": "1.0.0",
+  "description": "lab 10",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.3.0",
+    "rest": "^2.0.0"
+  },
+  "keywords": []
+}
